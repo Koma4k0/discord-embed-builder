@@ -1,0 +1,6 @@
+prefix: "$"  # Your preferred command prefix
+token: "YOUR_BOT_TOKEN"
+activity:
+  type: "playing"  # Options: playing, watching, listening
+  message: "Koma4k Embed Builder!"
+status: "online"  # Options: online, dnd, idle, invisible
